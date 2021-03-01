@@ -3,7 +3,7 @@ title: Joli
 subtitle:
 email: sid.ravi@outlook.com
 description: Joli - We Fix Hiring
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Siddharth Ravi
 street_address: Hoofdstraat 31A
