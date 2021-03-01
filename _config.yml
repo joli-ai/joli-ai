@@ -1,0 +1,36 @@
+# site settings
+title: Joli
+subtitle:
+email: sid.ravi@outlook.com
+description: Joli - We Fix Hiring
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Siddharth Ravi
+street_address: Hoofdstraat 31A
+city: Westerbork
+state: Drenthe
+zip_code: 9431AB
+country: The Netherlands
+phone: (+31) 651-671-128
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://gitlab.com/mallochio
+gitlab_url: https://gitlab.com/mallochio
+googleplus_url: 
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/sidravi
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
