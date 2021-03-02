@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Siddharth Ravi (Co-Founder)</h3>
 				</header>
-				<p>Siddharth is a machine learning expert, who has researched fair and transparent machine learning models in academia, and has also created machine learning products for companies that have been deployed in multiple countries across the globe. When he's not busy behind a screen, he can be found cruising on his longboard or in front of a book trying to mug up obscure trivia.</p>
+				<p>Siddharth is a machine learning expert, who has researched fair and transparent machine learning models in academia, and has also created machine learning products for companies that have been deployed in multiple countries across the globe. When he's not busy behind a screen, he can be found cruising on his longboard or in front of a book trying to mug up obscure bits of trivia.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Sharat Sreekantan (Co-Founder)</h3>
 				</header>
-				<p>Sharat is an entrepreneur and solutions architect with years of experience creating disruptive software products for global corporations. Insert cool-sounding braggy filler </p>
+				<p>Sharat is an entrepreneur and a passionate solutions architect with years of experience creating disruptive software products for global corporations. In his spare time, he like to listen to audiobooks and theorize about a world on universal basic income.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
