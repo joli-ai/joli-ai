@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Sharat Sreekantan (Co-Founder)</h3>
 				</header>
-				<p>Sharat is an entrepreneur and a passionate solutions architect with years of experience creating disruptive software products for global corporations. In his spare time, he like to listen to audiobooks and theorize about a world on universal basic income.</p>
+				<p>Sharat is an entrepreneur and a passionate solutions architect with years of experience creating disruptive software products for global corporations. In his spare time, he likes to listen to audiobooks and theorize about a world on universal basic income.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
